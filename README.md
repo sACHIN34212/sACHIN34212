@@ -1,7 +1,9 @@
 ### Hi there  I'm Sachin Paswan 👋
+
 🔭 Proficient in Data Structures and Algorithms, with intuitive problem-solving skills. Ability to translate business requirements into technical solutions. Looking forward to being a part of a product-based company and utilize my skill set to create fantastic products as a Back-end Developer.
 
 💻 Tech Stack, I've worked with 🧰
+
 Frontend: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript)
 
 Backend: Node.js, Express.js
