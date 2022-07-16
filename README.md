@@ -11,3 +11,4 @@ Databases: Firestore, MongoDB, SQL
 I, personally, believe “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 🤷
 
 Let's connect 📫
+[Linkedln ](https://www.linkedin.com/in/sachin6b808b36d0/)
