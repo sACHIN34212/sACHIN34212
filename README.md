@@ -6,7 +6,7 @@
 
 Frontend: ReactJS, Redux, TypeScript, VueJS, NextJS,
 
-Web Technologies(HTML, CSS, JavaScript, React.js)
+Web Technologies(HTML, CSS, JavaScript)
 
 Backend: Node.js, Express.js
 
