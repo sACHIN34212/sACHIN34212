@@ -1,7 +1,5 @@
 ### Hi there  I'm Sachin 👋
 
-I, personally, believe “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 🤷
-
 🔭 Proficient in Data Structures and Algorithms, with intuitive problem-solving skills. Ability to translate business requirements into technical solutions. Looking forward to being a part of a product-based company and utilize my skill set to create fantastic products as a Back-end Developer.
 
 💻 Tech Stack, I've worked with 🧰
@@ -15,6 +13,8 @@ Backend: Node.js, Express.js
 Databases: Firestore, MongoDB, SQL
 
 Programming: Java, Python, C/C++, C#, .NET
+
+I, personally, believe “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 🤷
 
 
 Let's connect 📫
