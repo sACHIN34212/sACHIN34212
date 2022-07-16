@@ -4,11 +4,15 @@
 
 💻 Tech Stack, I've worked with 🧰
 
-Frontend: ReactJS, Redux, TypeScript, VueJS, NextJS, Web Technologies(HTML, CSS, JavaScript)
+Frontend: ReactJS, Redux, TypeScript, VueJS, NextJS,
+
+Web Technologies(HTML, CSS, JavaScript, React.js)
 
 Backend: Node.js, Express.js
 
 Databases: Firestore, MongoDB, SQL
+
+Programming: Java, Python, C/C++, C#, .NET
 
 I, personally, believe “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” 🤷
 
