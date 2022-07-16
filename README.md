@@ -1,4 +1,4 @@
-### Hi there  I'm Sachin Paswan 👋
+### Hi there  I'm Sachin 👋
 
 🔭 Proficient in Data Structures and Algorithms, with intuitive problem-solving skills. Ability to translate business requirements into technical solutions. Looking forward to being a part of a product-based company and utilize my skill set to create fantastic products as a Back-end Developer.
 
